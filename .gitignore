@@ -1,4 +1,7 @@
 # ignore everything
-*
+/*
+
 !.gitignore
+!README.md
 !Sem*
+
