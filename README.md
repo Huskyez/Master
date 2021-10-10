@@ -1,2 +1,2 @@
 # Master
-Reporsitory for Master Courses
+Repository for Master Courses
