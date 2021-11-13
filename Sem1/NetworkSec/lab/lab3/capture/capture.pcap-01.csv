@@ -1,0 +1,7 @@
+
+BSSID, First time seen, Last time seen, channel, Speed, Privacy, Cipher, Authentication, Power, # beacons, # IV, LAN IP, ID-length, ESSID, Key
+90:B6:86:54:98:39, 2021-11-13 14:56:23, 2021-11-13 15:02:17,  6, 130, WPA2, CCMP, PSK, -28,     3376,      672,   0.  0.  0.  0,  10, AndroidAPq, 
+
+Station MAC, First time seen, Last time seen, Power, # packets, BSSID, Probed ESSIDs
+34:F6:4B:B4:34:76, 2021-11-13 14:59:27, 2021-11-13 15:01:15, -27,      336, 90:B6:86:54:98:39,
+
