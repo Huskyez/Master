@@ -1,0 +1,9 @@
+https://www.linux-magazine.com/Online/Features/IPv6-Penetration-Testing
+https://wiki.apnictraining.net/_media/stateful_dhcpv6_lab.pdf
+https://www.rmv6tf.org/wp-content/uploads/2013/04/5-IPv6-Attacks-and-Countermeasures-v1.2.pdf
+https://www.tno.nl/media/3274/testing_the_security_of_ipv6_implementations.pdf
+https://book.hacktricks.xyz/pentesting/pentesting-network/pentesting-ipv6
+https://www.hpc.mil/program-areas/networking-overview/2013-10-03-17-24-38/ipv6-knowledge-base-security/ipv6-and-vulnerability-scanners
+https://www.hpc.mil/images/hpcdocs/ipv6/masterthesis_christiaan_ottow_hacking_the_next_web.pdf
+https://weberblog.net/wp-content/uploads/2013/05/Master-Thesis-Johannes-Weber-IPv6-Security-Test-Laboratory.pdf
+https://doc.lagout.org/network/2008_ipv6_thc.pdf
