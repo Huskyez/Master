@@ -7,3 +7,5 @@ https://www.hpc.mil/program-areas/networking-overview/2013-10-03-17-24-38/ipv6-k
 https://www.hpc.mil/images/hpcdocs/ipv6/masterthesis_christiaan_ottow_hacking_the_next_web.pdf
 https://weberblog.net/wp-content/uploads/2013/05/Master-Thesis-Johannes-Weber-IPv6-Security-Test-Laboratory.pdf
 https://doc.lagout.org/network/2008_ipv6_thc.pdf
+https://www.giac.org/paper/gsec/31795/complete-guide-ipv6-attack-defense/125363
+https://blog.fox-it.com/2018/01/11/mitm6-compromising-ipv4-networks-via-ipv6/

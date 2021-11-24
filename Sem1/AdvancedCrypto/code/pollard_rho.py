@@ -26,6 +26,10 @@ if __name__ == "__main__":
 	x = 5
 	y = 5
 
+	N = int(input("N = "))
+	x = int(input("x0 = "))
+	y = int(input("y0 = "))
+
 	i = 0
 
 	while True:
